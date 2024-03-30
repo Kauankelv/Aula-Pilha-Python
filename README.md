@@ -1,5 +1,5 @@
 
-##My Data Structures Repository - Bachelor's Degree in Analysis and Systems Development (Unitins)
+## My Data Structures Repository - Bachelor's Degree in Analysis and Systems Development (Unitins)
 
 Hey folks,
 
