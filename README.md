@@ -1,5 +1,6 @@
 
 ##My Data Structures Repository - Bachelor's Degree in Analysis and Systems Development (Unitins)
+
 Hey folks,
 
 This is my repository dedicated to the study of Data Structures, an amazing subject that I'm taking as part of my Bachelor's Degree in Analysis and Systems Development at the State University of Tocantins (Unitins). I'm excited to share with you all the learning and experiences I'm gaining along the way!
